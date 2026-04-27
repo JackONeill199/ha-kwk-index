@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "KWK Index",
+        "description": "Richtet einen Sensor fuer den EEX KWK Baseloadpreis ein.",
+        "data": {
+          "source_url": "EEX KWK-XLSX-URL"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "Der KWK Index ist bereits eingerichtet."
+    }
+  }
+}

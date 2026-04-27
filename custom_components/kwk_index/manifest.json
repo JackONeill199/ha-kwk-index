@@ -1,0 +1,13 @@
+{
+  "domain": "kwk_index",
+  "name": "KWK Index",
+  "codeowners": [
+    "@JackONeill199"
+  ],
+  "config_flow": true,
+  "documentation": "https://www.eex.com/en/market-data/indices-benchmark/indices",
+  "issue_tracker": "https://github.com/JackONeill199/ha-kwk-index/issues",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}

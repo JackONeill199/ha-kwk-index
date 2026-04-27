@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "KWK Index",
+        "description": "Set up a sensor for the EEX KWK baseload price.",
+        "data": {
+          "source_url": "EEX KWK XLSX URL"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "The KWK Index is already configured."
+    }
+  }
+}
